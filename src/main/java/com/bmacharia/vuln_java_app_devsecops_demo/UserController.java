@@ -1,4 +1,4 @@
-package com.example.vuln;
+package com.bmacharia.vuln_java_app_devsecops_demo;
 
 import org.springframework.web.bind.annotation.*;
 
