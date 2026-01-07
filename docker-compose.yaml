@@ -1,6 +1,7 @@
 version: "3.8"
 services:
-  app:
+  vulnapp:
     build: .
+    image: vulnapp:latest
     ports:
       - "8001:8080"
