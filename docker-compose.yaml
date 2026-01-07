@@ -4,4 +4,4 @@ services:
     build: .
     image: vulnapp:latest
     ports:
-      - "8001:8080"
+      - "8005:8080"
